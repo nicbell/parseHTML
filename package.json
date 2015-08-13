@@ -1,0 +1,23 @@
+{
+  "name": "parsehtml",
+  "version": "1.0.0",
+  "description": "parseHTML function",
+  "main": "parseHTML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nicbell@github.com/nicbell/parseHTML.git"
+  },
+  "keywords": [
+    "parse",
+    "HTML"
+  ],
+  "author": "Nic Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicbell/parseHTML/issues"
+  },
+  "homepage": "https://github.com/nicbell/parseHTML#readme"
+}
