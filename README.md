@@ -10,7 +10,7 @@ npm install parsehtml
 Usage
 ---
 ```js
-var parseHTML = require('parseHTML');
+var parseHTML = require('parsehtml');
 
 var htmlSnippet = '<div><a>first</a></div> <div class="x"><a>second</a></div> <div><a>third</a></div>',
 	html = parseHTML(htmlSnippet);
